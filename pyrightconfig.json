@@ -1,0 +1,9 @@
+{
+  "include": ["submission", "harness", "starter"],
+  "exclude": ["snapshots", "snapshots_zip", "results", ".venv", "**/__pycache__"],
+  "ignore": ["harness", "starter"],
+  "extraPaths": ["harness", "submission"],
+  "venvPath": ".",
+  "venv": ".venv",
+  "pythonVersion": "3.11"
+}

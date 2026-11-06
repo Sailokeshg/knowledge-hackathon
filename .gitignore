@@ -1,0 +1,15 @@
+results/
+__pycache__/
+*.pyc
+.DS_Store
+.venv/
+
+# Never commit API keys
+.env
+
+# The website snapshots are shared for the assignment only - do not publish them
+snapshots/0*/
+snapshots_zip/
+
+# Assignment brief (not part of the solution)
+Knowledge-Hackathon-Assignment.pdf

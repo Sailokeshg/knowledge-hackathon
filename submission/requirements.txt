@@ -1,0 +1,3 @@
+# Only needed for the DeepSeek answer writer (DeepSeek's API is OpenAI-compatible).
+# Without it (or without an API key) the system still runs, using the extractive answer writer.
+openai>=1.40,<4
